@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Microsoft Print to PDF": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Microsoft Print to PDF\""
+    },
+    "help": {
+      "commandName": "Project"
+    }
+  }
+}
